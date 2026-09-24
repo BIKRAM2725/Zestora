@@ -1,0 +1,47 @@
+[
+ {
+  "_id": "6ab429cf44f35ccabef6aca0",
+  "name": "Tea & Beverages",
+  "slug": "tea-and-beverages"
+ },
+ {
+  "_id": "6ab4296e44f35ccabef6ac9b",
+  "name": "Biscuits & Cookies",
+  "slug": "biscuits-and-cookies"
+ },
+ {
+  "_id": "6ab4292344f35ccabef6ac96",
+  "name": "Dry Fruits & Nuts",
+  "slug": "dry-fruits-and-nuts"
+ },
+ {
+  "_id": "6ab428db44f35ccabef6ac91",
+  "name": "Salt, Sugar & Jaggery",
+  "slug": "salt-sugar-and-jaggery"
+ },
+ {
+  "_id": "6ab428ac44f35ccabef6ac8c",
+  "name": "Pickles & Chutney",
+  "slug": "pickles-and-chutney"
+ },
+ {
+  "_id": "6915ac1f82df05cd013a14b4",
+  "name": "Super Seed",
+  "slug": "super-seed"
+ },
+ {
+  "_id": "6915ab8982df05cd013a14af",
+  "name": "Ground Spices",
+  "slug": "ground-spices"
+ },
+ {
+  "_id": "6915aaf382df05cd013a14aa",
+  "name": "Whole Masala",
+  "slug": "whole-masala"
+ },
+ {
+  "_id": "6915aa8082df05cd013a149b",
+  "name": "Powder Masala",
+  "slug": "powder-masala"
+ }
+]

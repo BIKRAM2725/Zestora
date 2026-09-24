@@ -1,0 +1,944 @@
+[
+ {
+  "_id": "6ab43ea66f7bcdf84eed0210",
+  "title": "Garam Masala Powder",
+  "description": "Aromatic blend of cinnamon, cardamom, cloves and black pepper. Adds warmth to curries and biryanis.",
+  "category": {
+   "_id": "6915aa8082df05cd013a149b",
+   "name": "Powder Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027584/categories/qu6z1ueso81lmnf06qho.webp",
+   "public_id": "categories/qu6z1ueso81lmnf06qho",
+   "createdAt": "2025-11-13T09:53:04.628Z",
+   "updatedAt": "2025-11-13T09:53:04.628Z",
+   "slug": "powder-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyT4fRpyYKYlfDD-duWqYPxjoZ37NcMBDYcw2_VgR6dg&s=10"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 120,
+  "facilities": [
+   "100% Natural",
+   "No Preservatives",
+   "Freshly Ground"
+  ],
+  "slug": "garam-masala-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0211",
+  "title": "Kitchen King Masala (Powder)",
+  "description": "All-purpose blend for paneer and vegetable gravies — restaurant-style.",
+  "category": {
+   "_id": "6915aa8082df05cd013a149b",
+   "name": "Powder Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027584/categories/qu6z1ueso81lmnf06qho.webp",
+   "public_id": "categories/qu6z1ueso81lmnf06qho",
+   "createdAt": "2025-11-13T09:53:04.628Z",
+   "updatedAt": "2025-11-13T09:53:04.628Z",
+   "slug": "powder-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://bharatmasala.in/public/uploads/products/BMSMK31C-1.webp"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 110,
+  "facilities": [
+   "All-Purpose",
+   "Rich Aroma",
+   "Hygienically Packed"
+  ],
+  "slug": "kitchen-king-masala-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0212",
+  "title": "Pav Bhaji Masala (Powder)",
+  "description": "Mumbai-style spice mix with the perfect balance of heat and tang.",
+  "category": {
+   "_id": "6915aa8082df05cd013a149b",
+   "name": "Powder Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027584/categories/qu6z1ueso81lmnf06qho.webp",
+   "public_id": "categories/qu6z1ueso81lmnf06qho",
+   "createdAt": "2025-11-13T09:53:04.628Z",
+   "updatedAt": "2025-11-13T09:53:04.628Z",
+   "slug": "powder-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://www.bbassets.com/media/uploads/p/xl/268007_16-mtr-masala-pav-bhaji.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 90,
+  "facilities": [
+   "Authentic Taste",
+   "Resealable Pouch"
+  ],
+  "slug": "pav-bhaji-masala-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0213",
+  "title": "Chole Masala (Powder)",
+  "description": "Bold Punjabi chole masala with pomegranate seed and dry ginger notes.",
+  "category": {
+   "_id": "6915aa8082df05cd013a149b",
+   "name": "Powder Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027584/categories/qu6z1ueso81lmnf06qho.webp",
+   "public_id": "categories/qu6z1ueso81lmnf06qho",
+   "createdAt": "2025-11-13T09:53:04.628Z",
+   "updatedAt": "2025-11-13T09:53:04.628Z",
+   "slug": "powder-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://badshahmasala.com/wp-content/uploads/2021/07/Front-2-600x600.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 105,
+  "facilities": [
+   "Rich Flavour",
+   "Freshly Packed"
+  ],
+  "slug": "chole-masala-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0214",
+  "title": "Sabji Masala (Powder)",
+  "description": "Everyday vegetable masala — balanced spice for quick sabzis.",
+  "category": {
+   "_id": "6915aa8082df05cd013a149b",
+   "name": "Powder Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027584/categories/qu6z1ueso81lmnf06qho.webp",
+   "public_id": "categories/qu6z1ueso81lmnf06qho",
+   "createdAt": "2025-11-13T09:53:04.628Z",
+   "updatedAt": "2025-11-13T09:53:04.628Z",
+   "slug": "powder-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNT6vEKtbWpebWweIBdvucTQf4WgNECeYZ5Pn8g17vcg&s=10"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 85,
+  "facilities": [
+   "Everyday Use",
+   "No Additives"
+  ],
+  "slug": "sabji-masala-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0215",
+  "title": "Turmeric Powder",
+  "description": "Bright golden haldi with high curcumin, sourced from selected farms.",
+  "category": {
+   "_id": "6915ab8982df05cd013a14af",
+   "name": "Ground Spices",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027849/categories/ji97eyan4mh5ycyvyehz.jpg",
+   "public_id": "categories/ji97eyan4mh5ycyvyehz",
+   "createdAt": "2025-11-13T09:57:29.275Z",
+   "updatedAt": "2025-11-13T09:57:29.275Z",
+   "slug": "ground-spices",
+   "__v": 0
+  },
+  "images": [
+   "https://www.bbassets.com/media/uploads/p/l/100270871_7-eastern-powder-turmeric.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 80,
+  "facilities": [
+   "High Curcumin",
+   "Lab Tested"
+  ],
+  "slug": "turmeric-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0216",
+  "title": "Red Chilli Powder",
+  "description": "Vibrant chilli powder with balanced heat and deep colour.",
+  "category": {
+   "_id": "6915ab8982df05cd013a14af",
+   "name": "Ground Spices",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027849/categories/ji97eyan4mh5ycyvyehz.jpg",
+   "public_id": "categories/ji97eyan4mh5ycyvyehz",
+   "createdAt": "2025-11-13T09:57:29.275Z",
+   "updatedAt": "2025-11-13T09:57:29.275Z",
+   "slug": "ground-spices",
+   "__v": 0
+  },
+  "images": [
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcYD8cmpnRVFbOp2u7DvRTndpHv3flJYb1YUby7CtpVaJbZq0qlsgZtAV&s=10"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 130,
+  "facilities": [
+   "Medium-Hot",
+   "Pure & Unadulterated"
+  ],
+  "slug": "red-chilli-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0217",
+  "title": "Coriander Powder",
+  "description": "Freshly ground dhaniya with a citrusy aroma — base for gravies.",
+  "category": {
+   "_id": "6915ab8982df05cd013a14af",
+   "name": "Ground Spices",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027849/categories/ji97eyan4mh5ycyvyehz.jpg",
+   "public_id": "categories/ji97eyan4mh5ycyvyehz",
+   "createdAt": "2025-11-13T09:57:29.275Z",
+   "updatedAt": "2025-11-13T09:57:29.275Z",
+   "slug": "ground-spices",
+   "__v": 0
+  },
+  "images": [
+   "https://image.cdn.shpy.in/430402/CatchDhaniyaPowder-1750785549681.png?format=webp&width=1200"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 70,
+  "facilities": [
+   "Fresh Aroma",
+   "No Additives"
+  ],
+  "slug": "coriander-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0218",
+  "title": "Cumin Powder",
+  "description": "Roasted jeera powder with a warm nutty flavour for dals and rice.",
+  "category": {
+   "_id": "6915ab8982df05cd013a14af",
+   "name": "Ground Spices",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027849/categories/ji97eyan4mh5ycyvyehz.jpg",
+   "public_id": "categories/ji97eyan4mh5ycyvyehz",
+   "createdAt": "2025-11-13T09:57:29.275Z",
+   "updatedAt": "2025-11-13T09:57:29.275Z",
+   "slug": "ground-spices",
+   "__v": 0
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71lcbJgLPmL.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 110,
+  "facilities": [
+   "Roasted Flavour",
+   "Finely Ground"
+  ],
+  "slug": "cumin-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0219",
+  "title": "Black Pepper Powder",
+  "description": "Freshly ground black pepper — sharp heat for soups and curries.",
+  "category": {
+   "_id": "6915ab8982df05cd013a14af",
+   "name": "Ground Spices",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027849/categories/ji97eyan4mh5ycyvyehz.jpg",
+   "public_id": "categories/ji97eyan4mh5ycyvyehz",
+   "createdAt": "2025-11-13T09:57:29.275Z",
+   "updatedAt": "2025-11-13T09:57:29.275Z",
+   "slug": "ground-spices",
+   "__v": 0
+  },
+  "images": [
+   "https://www.quickpantry.in/cdn/shop/products/everest-black-pepper-50-g-quick-pantry.jpg?v=1710539038"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 160,
+  "facilities": [
+   "Premium Grade",
+   "Strong Aroma"
+  ],
+  "slug": "black-pepper-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed021a",
+  "title": "Cinnamon Sticks (Dalchini)",
+  "description": "Sweet woody sticks for tea, biryani and slow-cooked curries.",
+  "category": {
+   "_id": "6915aaf382df05cd013a14aa",
+   "name": "Whole Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027699/categories/btyeebhln9fydckid0zt.jpg",
+   "public_id": "categories/btyeebhln9fydckid0zt",
+   "createdAt": "2025-11-13T09:54:59.618Z",
+   "updatedAt": "2025-11-13T09:54:59.618Z",
+   "slug": "whole-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://honeyandspice.in/cdn/shop/files/ceylon_cinnamon_814656fe-4b00-4b7c-b317-7e8b16d4a9aa.png?v=1789625743"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 140,
+  "facilities": [
+   "Whole & Unbroken",
+   "Natural Aroma"
+  ],
+  "slug": "cinnamon-sticks"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed021b",
+  "title": "Green Cardamom (Elaichi)",
+  "description": "Plump, fragrant cardamom pods for chai and pulao.",
+  "category": {
+   "_id": "6915aaf382df05cd013a14aa",
+   "name": "Whole Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027699/categories/btyeebhln9fydckid0zt.jpg",
+   "public_id": "categories/btyeebhln9fydckid0zt",
+   "createdAt": "2025-11-13T09:54:59.618Z",
+   "updatedAt": "2025-11-13T09:54:59.618Z",
+   "slug": "whole-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://www.dawnlee.in/wp-content/uploads/2022/07/world-and-indias-best-green-cardamom-hari-elaichi-8-mm-dawn-lee-by-jain-roots-1.webp"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 450,
+  "facilities": [
+   "Intense Fragrance",
+   "Hand Picked"
+  ],
+  "slug": "green-cardamom"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed021c",
+  "title": "Cloves (Laung)",
+  "description": "Strong aromatic buds for masala, chai and pulao.",
+  "category": {
+   "_id": "6915aaf382df05cd013a14aa",
+   "name": "Whole Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027699/categories/btyeebhln9fydckid0zt.jpg",
+   "public_id": "categories/btyeebhln9fydckid0zt",
+   "createdAt": "2025-11-13T09:54:59.618Z",
+   "updatedAt": "2025-11-13T09:54:59.618Z",
+   "slug": "whole-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDFodpMt0xIP3LZbKANHOCSbdbqVfUedHTff0aRPNJQ&s"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 180,
+  "facilities": [
+   "Whole Buds",
+   "High Oil Content"
+  ],
+  "slug": "cloves"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed021d",
+  "title": "Bay Leaves (Tej Patta)",
+  "description": "Dried bay leaves with a subtle herbal aroma.",
+  "category": {
+   "_id": "6915aaf382df05cd013a14aa",
+   "name": "Whole Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027699/categories/btyeebhln9fydckid0zt.jpg",
+   "public_id": "categories/btyeebhln9fydckid0zt",
+   "createdAt": "2025-11-13T09:54:59.618Z",
+   "updatedAt": "2025-11-13T09:54:59.618Z",
+   "slug": "whole-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5P04CHhlHP_m4zlji0u11SzCoGCe5yzuRNcuxv3XMLiCeOc_rpLP851I&s=10"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 60,
+  "facilities": [
+   "Naturally Dried",
+   "No Additives"
+  ],
+  "slug": "bay-leaves"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed021e",
+  "title": "Star Anise (Chakra Phool)",
+  "description": "Sweet licorice-flavoured star-shaped spice for biryani and chai.",
+  "category": {
+   "_id": "6915aaf382df05cd013a14aa",
+   "name": "Whole Masala",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027699/categories/btyeebhln9fydckid0zt.jpg",
+   "public_id": "categories/btyeebhln9fydckid0zt",
+   "createdAt": "2025-11-13T09:54:59.618Z",
+   "updatedAt": "2025-11-13T09:54:59.618Z",
+   "slug": "whole-masala",
+   "__v": 0
+  },
+  "images": [
+   "https://jainroots.com/wp-content/uploads/2022/02/StarAniseManufacture.webp"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 210,
+  "facilities": [
+   "Whole Stars",
+   "Premium Quality"
+  ],
+  "slug": "star-anise"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed021f",
+  "title": "Chia Seeds",
+  "description": "Omega-3 rich chia seeds — ideal for smoothies and puddings.",
+  "category": {
+   "_id": "6915ac1f82df05cd013a14b4",
+   "name": "Super Seed",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027999/categories/mnoyeov9sbrcmv2nnhqx.jpg",
+   "public_id": "categories/mnoyeov9sbrcmv2nnhqx",
+   "createdAt": "2025-11-13T09:59:59.114Z",
+   "updatedAt": "2025-11-13T09:59:59.114Z",
+   "slug": "super-seed",
+   "__v": 0
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51gP+yfboQL._AC_UF894,1000_QL80_.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 250,
+  "facilities": [
+   "Rich in Omega-3",
+   "Gluten Free"
+  ],
+  "slug": "chia-seeds"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0220",
+  "title": "Flax Seeds",
+  "description": "Whole alsi seeds packed with fibre and lignans.",
+  "category": {
+   "_id": "6915ac1f82df05cd013a14b4",
+   "name": "Super Seed",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027999/categories/mnoyeov9sbrcmv2nnhqx.jpg",
+   "public_id": "categories/mnoyeov9sbrcmv2nnhqx",
+   "createdAt": "2025-11-13T09:59:59.114Z",
+   "updatedAt": "2025-11-13T09:59:59.114Z",
+   "slug": "super-seed",
+   "__v": 0
+  },
+  "images": [
+   "https://herbsense.in/cdn/shop/files/flaxseed_post.png?v=1773813227&width=1946"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 140,
+  "facilities": [
+   "High Fibre",
+   "Raw & Unroasted"
+  ],
+  "slug": "flax-seeds"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0221",
+  "title": "Pumpkin Seeds",
+  "description": "Crunchy protein-rich seeds — ideal snack or topping.",
+  "category": {
+   "_id": "6915ac1f82df05cd013a14b4",
+   "name": "Super Seed",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027999/categories/mnoyeov9sbrcmv2nnhqx.jpg",
+   "public_id": "categories/mnoyeov9sbrcmv2nnhqx",
+   "createdAt": "2025-11-13T09:59:59.114Z",
+   "updatedAt": "2025-11-13T09:59:59.114Z",
+   "slug": "super-seed",
+   "__v": 0
+  },
+  "images": [
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzz-iYa9lC280mqQFu0inIq0NeGrYA1e4z6phqUJ-Ni23bjjE1IDc6hBU&s=10"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 320,
+  "facilities": [
+   "Protein Rich",
+   "Ready to Eat"
+  ],
+  "slug": "pumpkin-seeds"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0222",
+  "title": "Sunflower Seeds",
+  "description": "Mild nutty kernels rich in vitamin E.",
+  "category": {
+   "_id": "6915ac1f82df05cd013a14b4",
+   "name": "Super Seed",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027999/categories/mnoyeov9sbrcmv2nnhqx.jpg",
+   "public_id": "categories/mnoyeov9sbrcmv2nnhqx",
+   "createdAt": "2025-11-13T09:59:59.114Z",
+   "updatedAt": "2025-11-13T09:59:59.114Z",
+   "slug": "super-seed",
+   "__v": 0
+  },
+  "images": [
+   "https://triphal.com/cdn/shop/files/SunflowerSeeds200g-100_Pure-EdibleGrade-ChemicalFree-1.jpg?v=1786000594"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 190,
+  "facilities": [
+   "Vitamin E Rich",
+   "Shelled Kernels"
+  ],
+  "slug": "sunflower-seeds"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0223",
+  "title": "Sesame Seeds (Til)",
+  "description": "Hulled white til seeds for sweets and garnishing.",
+  "category": {
+   "_id": "6915ac1f82df05cd013a14b4",
+   "name": "Super Seed",
+   "image": "https://res.cloudinary.com/dz1awhdse/image/upload/v1763027999/categories/mnoyeov9sbrcmv2nnhqx.jpg",
+   "public_id": "categories/mnoyeov9sbrcmv2nnhqx",
+   "createdAt": "2025-11-13T09:59:59.114Z",
+   "updatedAt": "2025-11-13T09:59:59.114Z",
+   "slug": "super-seed",
+   "__v": 0
+  },
+  "images": [
+   "https://triphal.com/cdn/shop/files/SunflowerSeeds200g-100_Pure-EdibleGrade-ChemicalFree-1.jpg?v=1786000594"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 130,
+  "facilities": [
+   "Calcium Rich",
+   "Hulled & Cleaned"
+  ],
+  "slug": "sesame-seeds"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0224",
+  "title": "Mixed Mango Pickle",
+  "description": "Tangy spicy mango pickle in mustard oil — classic accompaniment.",
+  "category": {
+   "name": "Pickles & Chutney",
+   "slug": "pickles-chutney"
+  },
+  "images": [
+   "https://www.indianpickle.com/wp-content/uploads/2018/02/mango-pickle.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 180,
+  "facilities": [
+   "Traditionally Prepared",
+   "No Artificial Colours"
+  ],
+  "slug": "mixed-mango-pickle"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0225",
+  "title": "Lime Pickle",
+  "description": "Zesty lime pickle with bright tang and balanced spice.",
+  "category": {
+   "name": "Pickles & Chutney",
+   "slug": "pickles-chutney"
+  },
+  "images": [
+   "https://www.vegrecipesofindia.com/wp-content/uploads/2016/04/lime-pickle-1-500x375.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 160,
+  "facilities": [
+   "Resealable Jar",
+   "Home-style Recipe"
+  ],
+  "slug": "lime-pickle"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0226",
+  "title": "Garlic Chutney",
+  "description": "Spicy garlic chutney for dosas, sandwiches and snacks.",
+  "category": {
+   "name": "Pickles & Chutney",
+   "slug": "pickles-chutney"
+  },
+  "images": [
+   "https://thefoodartfactory.com/cdn/shop/products/ChilliGarlicChutney-front.png?v=1664312265"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 140,
+  "facilities": [
+   "Fresh Garlic",
+   "No Preservatives"
+  ],
+  "slug": "garlic-chutney"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0227",
+  "title": "Red Chilli Pickle",
+  "description": "Hot red chilli pickle for fiery flavour lovers.",
+  "category": {
+   "name": "Pickles & Chutney",
+   "slug": "pickles-chutney"
+  },
+  "images": [
+   "https://www.spiceindiaonline.com/media/catalog/product/cache/1/image/800x/040ec09b1e35df139433887a97daa66f/r/e/red_chilly_pickle.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 150,
+  "facilities": [
+   "Handmade",
+   "Airtight Pack"
+  ],
+  "slug": "red-chilli-pickle"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0228",
+  "title": "Mango Chutney",
+  "description": "Sweet-sour mango chutney — perfect with cheese and snacks.",
+  "category": {
+   "name": "Pickles & Chutney",
+   "slug": "pickles-chutney"
+  },
+  "images": [
+   "https://tiimg.tistatic.com/fp/1/003/410/sweet-mango-chutney-106.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 170,
+  "facilities": [
+   "Glass Jar",
+   "No Artificial Flavour"
+  ],
+  "slug": "mango-chutney"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0229",
+  "title": "Refined Table Salt",
+  "description": "Fine grain iodized table salt for everyday use.",
+  "category": {
+   "name": "Salt, Sugar & Jaggery",
+   "slug": "salt-sugar-jaggery"
+  },
+  "images": [
+   "https://www.cooksillustrated.com/assets/recipes/7234-table-salt-hero.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 45,
+  "facilities": [
+   "Iodized",
+   "Economy Pack"
+  ],
+  "slug": "refined-table-salt"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed022a",
+  "title": "Organic Cane Sugar",
+  "description": "Pure organic cane sugar for baking and beverages.",
+  "category": {
+   "name": "Salt, Sugar & Jaggery",
+   "slug": "salt-sugar-jaggery"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/618P6nQgrQL._AC_UF894,1000_QL80_.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 70,
+  "facilities": [
+   "Organic",
+   "No Added Chemicals"
+  ],
+  "slug": "organic-cane-sugar"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed022b",
+  "title": "Organic Jaggery Block",
+  "description": "Natural unrefined jaggery — traditional sweetener.",
+  "category": {
+   "name": "Salt, Sugar & Jaggery",
+   "slug": "salt-sugar-jaggery"
+  },
+  "images": [
+   "https://www.organicfacts.net/wp-content/uploads/2013/07/Jaggery.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 95,
+  "facilities": [
+   "Chemical Free",
+   "Sun-Dried"
+  ],
+  "slug": "organic-jaggery-block"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed022c",
+  "title": "Rock Salt (Sendha Namak)",
+  "description": "Coarse rock salt commonly used for seasonings and fasting recipes.",
+  "category": {
+   "name": "Salt, Sugar & Jaggery",
+   "slug": "salt-sugar-jaggery"
+  },
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/1/18/Rock_salt.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 60,
+  "facilities": [
+   "Coarse Grain",
+   "Natural"
+  ],
+  "slug": "rock-salt-sendha-namak"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed022d",
+  "title": "Premium Almonds (Badam)",
+  "description": "Whole premium almonds — great for snacking and baking.",
+  "category": {
+   "name": "Dry Fruits & Nuts",
+   "slug": "dry-fruits-nuts"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71pJc8iZ4yL._SL1500_.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 650,
+  "facilities": [
+   "Vitamin E Rich",
+   "Handpicked"
+  ],
+  "slug": "premium-almonds"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed022e",
+  "title": "Pistachios (Kaju alternatives)",
+  "description": "Shelled pistachios — delicious snack and topping.",
+  "category": {
+   "name": "Dry Fruits & Nuts",
+   "slug": "dry-fruits-nuts"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71vS1Xfg3SL._SL1500_.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 720,
+  "facilities": [
+   "Natural",
+   "Roasted Option"
+  ],
+  "slug": "pistachios"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed022f",
+  "title": "Roasted Cashews",
+  "description": "Premium cashews roasted for a crunchy snack.",
+  "category": {
+   "name": "Dry Fruits & Nuts",
+   "slug": "dry-fruits-nuts"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71qK8nV6k-L._SL1500_.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 680,
+  "facilities": [
+   "High Protein",
+   "Ready to Eat"
+  ],
+  "slug": "roasted-cashews"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0230",
+  "title": "Walnuts",
+  "description": "Fresh walnuts — heart-healthy and rich in omega-3.",
+  "category": {
+   "name": "Dry Fruits & Nuts",
+   "slug": "dry-fruits-nuts"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61F1YIu1GDL._SL1200_.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 750,
+  "facilities": [
+   "Omega-3 Rich",
+   "Fresh Pack"
+  ],
+  "slug": "walnuts"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0231",
+  "title": "Dates (Khajoor)",
+  "description": "Natural dried dates — sweet and nutritious.",
+  "category": {
+   "name": "Dry Fruits & Nuts",
+   "slug": "dry-fruits-nuts"
+  },
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/3/36/Dates_on_plate.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 240,
+  "facilities": [
+   "Sun-Dried",
+   "No Preservatives"
+  ],
+  "slug": "dates-khajoor"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0232",
+  "title": "Buttery Cookies Pack",
+  "description": "Crispy buttery cookies — perfect with tea.",
+  "category": {
+   "name": "Biscuits & Cookies",
+   "slug": "biscuits-cookies"
+  },
+  "images": [
+   "https://www.britannia.co.in/assets/images/product/cookies.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 55,
+  "facilities": [
+   "Crispy",
+   "Snack Size"
+  ],
+  "slug": "buttery-cookies"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0233",
+  "title": "Digestive Biscuits",
+  "description": "Whole wheat digestive biscuits for healthy snacking.",
+  "category": {
+   "name": "Biscuits & Cookies",
+   "slug": "biscuits-cookies"
+  },
+  "images": [
+   "https://images.unsplash.com/photo-1598378617379-1b6e40d6f3a6?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 60,
+  "facilities": [
+   "Whole Wheat",
+   "Low Sugar"
+  ],
+  "slug": "digestive-biscuits"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0234",
+  "title": "Chocolate Chip Cookies",
+  "description": "Classic choc-chip cookies for kids and adults.",
+  "category": {
+   "name": "Biscuits & Cookies",
+   "slug": "biscuits-cookies"
+  },
+  "images": [
+   "https://images.unsplash.com/photo-1606756795584-4b3fd1a1e1b5?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 75,
+  "facilities": [
+   "Choc-Chips",
+   "Fresh Pack"
+  ],
+  "slug": "chocolate-chip-cookies"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0236",
+  "title": "Loose Leaf Assam Tea",
+  "description": "Bold malty Assam tea leaves for strong chai.",
+  "category": {
+   "name": "Tea & Beverages",
+   "slug": "tea-beverages"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71i4D6p5q6L._SL1500_.jpg"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 220,
+  "facilities": [
+   "Loose Leaf",
+   "Strong Flavour"
+  ],
+  "slug": "loose-assam-tea"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0237",
+  "title": "Green Tea Bags",
+  "description": "Antioxidant rich green tea bags for daily wellness.",
+  "category": {
+   "name": "Tea & Beverages",
+   "slug": "tea-beverages"
+  },
+  "images": [
+   "https://images.unsplash.com/photo-1526318472351-c75fcf0703c1?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 150,
+  "facilities": [
+   "Antioxidant",
+   "Tea Bags"
+  ],
+  "slug": "green-tea-bags"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0238",
+  "title": "Masala Chai Powder",
+  "description": "Ready-to-brew masala chai mix with cardamom and ginger.",
+  "category": {
+   "name": "Tea & Beverages",
+   "slug": "tea-beverages"
+  },
+  "images": [
+   "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 130,
+  "facilities": [
+   "Blend",
+   "Quick Brew"
+  ],
+  "slug": "masala-chai-powder"
+ },
+ {
+  "_id": "6ab43ea66f7bcdf84eed0239",
+  "title": "Lemon Instant Drink Mix",
+  "description": "Refreshing lemon drink mix for cold beverages.",
+  "category": {
+   "name": "Tea & Beverages",
+   "slug": "tea-beverages"
+  },
+  "images": [
+   "https://images.unsplash.com/photo-1526318472351-c75fcf0703c1?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "isAvailable": true,
+  "stock": 10,
+  "price": 90,
+  "facilities": [
+   "Instant",
+   "Easy Mix"
+  ],
+  "slug": "lemon-instant-drink"
+ }
+]
