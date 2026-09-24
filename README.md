@@ -1,4 +1,4 @@
-# Zestora — Full-Stack E-Commerce Platform
+# Zestora — Full-Stack E-Commerce Platform   [ Live : https://zestora-1-q57y.onrender.com/ ]
 
 Zestora is a full-stack e-commerce platform designed for discovering and purchasing Indian spices, masalas, and related food products.
 
@@ -151,4 +151,4 @@ Full-Stack Developer | AI/ML Developer
 GitHub:
 https://github.com/BIKRAM2725
 
-
+LIVE : https://zestora-1-q57y.onrender.com/
