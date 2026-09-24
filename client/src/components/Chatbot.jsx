@@ -21,12 +21,12 @@ const RAG_API = process.env.REACT_APP_RAG_API_URL || "http://127.0.0.1:8000";
 const WHATSAPP = process.env.REACT_APP_WHATSAPP_NUMBER || "+918337882902";
 
 const GRADIENT_BG = "bg-gradient-to-r from-orange-500 to-red-500";
-const BOT_NAME = "HotBot Assistant";
+const BOT_NAME = "ZestBot Assistant";
 
 const WELCOME = {
   type: "bot",
   message:
-    "Hi! I'm HotBot, your HotColours assistant. I can check your orders, find products and prices, and answer store questions.",
+    "Hi! I'm ZestBot, your Zestoras assistant. I can check your orders, find products and prices, and answer store questions.",
 };
 
 const QUICK_CHIPS = [
@@ -116,7 +116,7 @@ const UserMessage = ({ children }) => (
 );
 
 const TypingDots = () => (
-  <div className="flex gap-1 py-1" aria-label="HotBot is typing">
+  <div className="flex gap-1 py-1" aria-label="ZestBot is typing">
     {[0, 150, 300].map((d) => (
       <span
         key={d}
@@ -306,7 +306,7 @@ export default function Chatbot() {
     );
 
   const openWhatsApp = () => {
-    const text = encodeURIComponent("Hello HotColours! I need help.");
+    const text = encodeURIComponent("Hello Zestoras! I need help.");
     window.open(`https://wa.me/${WHATSAPP.replace(/^\+/, "")}?text=${text}`, "_blank");
   };
 
@@ -353,8 +353,8 @@ export default function Chatbot() {
         actions: data?.actions || [],
       });
     } catch (err) {
-      console.error("HotBot error:", err);
-      finish({ message: "I can't reach HotBot right now. Please try again in a moment." });
+      console.error("ZestBot error:", err);
+      finish({ message: "I can't reach ZestBot right now. Please try again in a moment." });
     } finally {
       setBusy(false);
     }
