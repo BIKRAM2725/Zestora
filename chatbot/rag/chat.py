@@ -44,9 +44,9 @@ PRODUCT_ENDPOINTS = [
 CATEGORY_ENDPOINT = os.getenv("CATEGORY_ENDPOINT", "/api/category/get-category")
 PRODUCT_PATH_TEMPLATE = os.getenv("PRODUCT_PATH_TEMPLATE", "/product/{slug}")
 
-INDEX_PATH = "data/hotcolours.index"
-CHUNKS_PATH = "data/hotcolours_chunks.txt"
-SOURCES_PATH = "data/hotcolours_sources.txt"
+INDEX_PATH = "data/Zestoras.index"
+CHUNKS_PATH = "data/Zestoras_chunks.txt"
+SOURCES_PATH = "data/Zestoras_sources.txt"
 
 index = faiss.read_index(INDEX_PATH)
 with open(CHUNKS_PATH, "r", encoding="utf-8") as f:
@@ -120,7 +120,7 @@ def node_get(path, token=None, uid=None):
 # LLM helper
 # --------------------------------------------------------------------------- #
 SYSTEM = (
-    "You are HotBot, the friendly assistant of HotColours, an online store. "
+    "You are HotBot, the friendly assistant of Zestoras, an online store. "
     "Be concise (max 4 short sentences), warm and clear. You may use **bold** for key values. "
     "Use ONLY the data provided in the message; never invent orders, prices, stock or policies. "
     "Prices are in Indian rupees (\u20b9). Never mention tools, APIs, context, embeddings or databases. "
@@ -169,7 +169,7 @@ def clean(text):
 # --------------------------------------------------------------------------- #
 # Step 1: rewrite + route
 # --------------------------------------------------------------------------- #
-PLANNER = """You are the planner for HotBot, the assistant of HotColours (an online store).
+PLANNER = """You are the planner for HotBot, the assistant of Zestoras (an online store).
 Read the chat history and the latest user message, then return JSON only:
 {
   "rewritten": "the latest message as a clear standalone English question. Fix typos and resolve words like 'it', 'that order', 'the same'",
@@ -539,7 +539,7 @@ def ask_question(question, history=None, token=None, admin_session=False):
         return reply("Sorry, I couldn't process that right now. Please try again.")
 
     answer = compose(
-        question, rewritten, "HotColours website content", context, history,
+        question, rewritten, "Zestoras website content", context, history,
         extra=" If the content does not contain the answer, reply exactly: NOT_FOUND",
     )
     if "NOT_FOUND" not in answer:
