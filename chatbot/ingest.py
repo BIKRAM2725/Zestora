@@ -21,7 +21,7 @@ if not GEMINI_API_KEY:
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 # ---- configuration -------------------------------------------------------- #
-BASE_URL = os.getenv("SITE_URL", "https://hotcolours-c44r.vercel.app/")
+BASE_URL = os.getenv("SITE_URL", "https://Zestoras-c44r.vercel.app/")
 if not BASE_URL.endswith("/"):
     BASE_URL += "/"
 _parsed = urlparse(BASE_URL)
@@ -39,9 +39,9 @@ EXCLUDED_PREFIXES = ("/admin", "/user", "/track", "/checkout", "/cart", "/login"
 EXCLUDED_API = re.compile(r"order|cart|payment|auth|admin|user|review|track|otp", re.I)
 
 DATA_DIR = "data"
-INDEX_FILE = os.path.join(DATA_DIR, "hotcolours.index")
-CHUNKS_FILE = os.path.join(DATA_DIR, "hotcolours_chunks.txt")
-SOURCES_FILE = os.path.join(DATA_DIR, "hotcolours_sources.txt")
+INDEX_FILE = os.path.join(DATA_DIR, "Zestoras.index")
+CHUNKS_FILE = os.path.join(DATA_DIR, "Zestoras_chunks.txt")
+SOURCES_FILE = os.path.join(DATA_DIR, "Zestoras_sources.txt")
 PRODUCTS_FILE = os.path.join(DATA_DIR, "products.json")
 CATEGORIES_FILE = os.path.join(DATA_DIR, "categories.json")
 
@@ -333,7 +333,7 @@ def save_data(chunks, sources, vectors, products, categories):
 
 
 if __name__ == "__main__":
-    print("=" * 60 + "\nHOTCOLOURS RAG INGESTION\n" + "=" * 60)
+    print("=" * 60 + "\nZestoraS RAG INGESTION\n" + "=" * 60)
     print(f"Starting URL: {BASE_URL}")
 
     pages, products, categories, api_hits, footer = crawl_website()
@@ -359,4 +359,4 @@ if __name__ == "__main__":
 
     vectors = create_embeddings(chunks)
     save_data(chunks, sources, vectors, products, categories)
-    print("\nHOTCOLOURS RAG READY")
+    print("\nZestoraS RAG READY")
